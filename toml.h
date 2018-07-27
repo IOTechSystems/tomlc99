@@ -25,6 +25,8 @@ SOFTWARE.
 #ifndef TOML_H
 #define TOML_H
 
+#include <stdio.h>
+
 #ifdef __cplusplus
 #define TOML_EXTERN extern "C"
 #else

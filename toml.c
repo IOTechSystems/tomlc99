@@ -31,7 +31,7 @@ SOFTWARE.
 #include <stdint.h>
 #include <ctype.h>
 #include <string.h>
-#include "edgex/toml.h"
+#include "toml.h"
 
 #ifdef _WIN32
 char* strndup(const char* s, size_t n)
